@@ -1,0 +1,7 @@
+C:\Users\htoot\source\repos\CS2025\Month\obj\Debug\Month.csproj.AssemblyReference.cache
+C:\Users\htoot\source\repos\CS2025\Month\obj\Debug\Month.csproj.CoreCompileInputs.cache
+C:\Users\htoot\source\repos\CS2025\Month\bin\Debug\Month.exe.config
+C:\Users\htoot\source\repos\CS2025\Month\bin\Debug\Month.exe
+C:\Users\htoot\source\repos\CS2025\Month\bin\Debug\Month.pdb
+C:\Users\htoot\source\repos\CS2025\Month\obj\Debug\Month.exe
+C:\Users\htoot\source\repos\CS2025\Month\obj\Debug\Month.pdb
